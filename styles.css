@@ -3,17 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
+.html {
     background-color: #7bcac8;
     font-family: "kanit", sans-serif;
 }
-h1 {
+.h1 {
     color: orangered;
     text-align: center;
     margin: 10px;
     font-family: "kanit", sans-serif;
 }
-body {
+.body {
     font-family: "kanit", sans-serif;
     color: orangered;
     text-align: center;
